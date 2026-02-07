@@ -1,0 +1,24 @@
+{
+  "name": "lab3_restaurant_database",
+  "version": "1.0.0",
+  "description": "Restaurant database using Node, Express, MongoDB",
+  "main": "(index.js) server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AdelAlhajHussein/lab03_101532466_comp3133.git"
+  },
+  "author": "Adel Hussein",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AdelAlhajHussein/lab03_101532466_comp3133/issues"
+  },
+  "homepage": "https://github.com/AdelAlhajHussein/lab03_101532466_comp3133#readme",
+  "dependencies": {
+    "dotenv": "^17.2.4",
+    "express": "^5.2.1",
+    "mongoose": "^9.1.6"
+  }
+}
